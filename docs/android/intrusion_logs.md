@@ -80,3 +80,4 @@ When `--timezone` is provided, timestamps in the timeline and JSON output reflec
 
 - This page assumes the intrusion logs have already been collected from the device. The recommended collection path is via AndroidQF (see above); intrusion logging itself must have been enabled on the device beforehand by opting into Android's Advanced Protection mode and also enabling the optional Intrusion Logging feature (see the [Amnesty blog post](https://securitylab.amnesty.org/latest/2026/05/android-intrusion-logging-as-a-new-source-of-data-for-consensual-forensic-analysis/) for details).
 - As with all IOC-based analysis, public indicators alone are not sufficient to conclude that a device is uncompromised. See the [Indicators of Compromise](../iocs.md) page for context.
+
